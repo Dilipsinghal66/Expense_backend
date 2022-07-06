@@ -1,0 +1,15 @@
+[
+    {
+      "id": "1",
+      "title": "school Fee",
+      "amount": 20,
+     "date": "tue Nov 16 2022 GMT+0530 (India Standard Time)"
+    },
+    {
+     "id": "2",
+     "title": "house Fee",
+     "amount": 250,
+    "date": "tue Nov 17 2022 GMT+0530 (India Standard Time)"
+    }
+]
+  
